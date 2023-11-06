@@ -1,4 +1,5 @@
-### Hi there 👋
+### -br Olá, Atualmente eu estou aprendendo java.
+### -en Hello, I'm currently learning java.
 
 <!--
 **getSnoop/getSnoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
